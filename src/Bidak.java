@@ -4,7 +4,7 @@ public class Bidak {
     String Bishop= "2";
     String Rook= "2";
     String Knight= "2";
-    String Pion= "18";
+    String Pion= "8";
     int Death;
 
     void eatEnemy(){
